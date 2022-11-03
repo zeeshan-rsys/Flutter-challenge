@@ -1,4 +1,4 @@
-import 'package:widget_challenge/utils/routes.dart';
+import 'package:flutter_challenge/utils/routes.dart';
 
 class DailyTask {
   String title;
@@ -26,5 +26,17 @@ List<DailyTask> tasks = [
     title: 'Ep: 2',
     cretedAt: DateTime(2022, 10, 16),
     route: Routes.ep2,
+  ),
+   DailyTask(
+    description: 'Text to speech',
+    title: 'Ep: 3',
+    cretedAt: DateTime(2022, 10, 30),
+    route: Routes.ep3,
+  ),
+   DailyTask(
+    description: 'Change theme',
+    title: 'Ep: 4',
+    cretedAt: DateTime(2022, 11, 7),
+    route: Routes.changeTheme,
   ),
 ];
