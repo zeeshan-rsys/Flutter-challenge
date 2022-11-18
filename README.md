@@ -46,14 +46,27 @@
 
  <!-- ------------------------------------------------------ -->
  
-> Episode: 5 Change theme using provider (SOON)
+> Episode: 5 Change theme using provider
 
+
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/blob/main/lib/ui/change_theme/change_theme.dart)
+
+- [ ] [watch on youtube](https://www.youtube.com/watch?v=h2JWvU1AMNA)
+- [ ] [medium](https://medium.com/@md.zeeshaniqbal7277/change-theme-dynamically-flutter-provider-package-shared-preferences-35847c237025)
+
+![change_theme_br](https://user-images.githubusercontent.com/67018643/199065296-5dba941f-7dbb-46ef-a48b-b4b0ad35b4ba.png)
+
+
+ <!-- ------------------------------------------------------ -->
+ 
+> Episode: 6 Vibration (soon)
+
+- [ ] [watch on youtube](https://youtu.be/gWMqED6R5pE)
 
 - [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge)
 
-- [ ] [watch on youtube](https://www.youtube.com/channel/UCiBY18oLz7AyzZIzL3QrxwQ/videos)
+![Flutter](https://user-images.githubusercontent.com/67018643/202201346-07123c03-13f5-4d3e-9eac-b4409f67413a.png)
 
-![change_theme_br](https://user-images.githubusercontent.com/67018643/199065296-5dba941f-7dbb-46ef-a48b-b4b0ad35b4ba.png)
 
 
 
@@ -63,6 +76,8 @@
 - [Flutter text to speech ](https://pub.dev/packages/flutter_tts)
 - [get it ](https://pub.dev/packages/get_it)
 - [provider](https://pub.dev/packages/provider)
+- [Vibration](https://pub.dev/packages/vibration)
+
 
 ## Built With
 
@@ -70,6 +85,10 @@
 - [ ] Draggable Widget
 - [ ] Native splash using command line
 - [ ] Text to speech
+- [ ] Theme change dynamically
+- [ ] Vibration
+
+
 
 
 
